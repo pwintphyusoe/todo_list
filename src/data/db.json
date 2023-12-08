@@ -1,0 +1,29 @@
+{
+  "todoList": [
+    {
+      "id": "647e220a-ce51-0dcc-129f-04163bea6e4a",
+      "tasks": "Hello React",
+      "status": false
+    },
+    {
+      "id": "3c9250c1-1ebc-29a2-66c7-f45de32c389c",
+      "tasks": "Finally , I got it",
+      "status": true
+    },
+    {
+      "id": "82dcc23c-e619-5f8d-3740-940d56885042",
+      "tasks": "OK , Good",
+      "status": true
+    },
+    {
+      "id": "e75ec482-a36d-cb7b-2f9a-c5ab68de1fb7",
+      "tasks": "Fine",
+      "status": true
+    },
+    {
+      "id": "f64bae40-83dc-99bc-626d-a2a24e30899d",
+      "tasks": "Thank you",
+      "status": true
+    }
+  ]
+}
